@@ -1,12 +1,10 @@
 [<img src="https://github.com/amandatilly/amandatilly/blob/main/readme_header.png" alt="banner that says Amanda Tilly - Frontend Developer">](https://amandatilly.netlify.app/)
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
