@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
-[![Header](<img src="https://github.com/amandatilly/amandatilly/blob/main/readme_header.png" alt="banner that says Amanda Tilly - Frontend Developer">](https://amandatilly.netlify.app/)
+[(<img src="https://github.com/amandatilly/amandatilly/blob/main/readme_header.png" alt="banner that says Amanda Tilly - Frontend Developer">](https://amandatilly.netlify.app/)
 
 ### Hi there 👋
 
