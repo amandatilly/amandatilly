@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/amandatilly/<OWNER>/<OWNER>/readme_header.png "Header")](https://amandatilly.netlify.app/)
+[![Header](https://raw.githubusercontent.com/amandatilly/<OWNER>/<OWNER>/https://github.com/amandatilly/amandatilly/blob/main/readme_header.png?raw=true "Header")](https://amandatilly.netlify.app/)
 ### Hi there 👋
 
 <!--
