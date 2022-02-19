@@ -8,7 +8,7 @@
 </div>  
   
 
-### <div align="center">I'm Amanda, a creative Frontend Developer 🎨👨‍💻 & Sustainability Advocate 🌲  </div>  
+### <div align="center">I'm Amanda, a creative frontend feveloper 🎨👨‍💻 & sustainability advocate 🌲  </div>  
   
 
 - ✔️ I just finished [Debug - Happy Habiting](https://github.com/amandatilly/final-project), the final project of Technigo's 24-week boot camp.  
