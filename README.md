@@ -8,7 +8,7 @@
 </div>  
   
 
-### <div align="center">I'm Amanda, a creative frontend developer 🎨👨‍💻 & sustainability advocate 🌲  </div>  
+### <div align="center">I'm Amanda, a creative frontend developer 🎨👩‍💻 & sustainability advocate 🌲  </div>  
 <br/> 
   
 
