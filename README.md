@@ -90,12 +90,13 @@
 <br/>  
 
 
+<!--
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=amandatilly&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 
 
-<!--
+
 **amandatilly/amandatilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
