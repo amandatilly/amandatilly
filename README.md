@@ -12,10 +12,10 @@
 <br/> 
   
 
-- ✔️ I just finished [Debug - Happy Habiting](https://github.com/amandatilly/final-project), the final project of Technigo's 24-week boot camp.  
+- ✔️ [Debug - Happy Habiting](https://github.com/amandatilly/final-project), the final project of Technigo's 24-week boot camp.  
   
 
-- 🌱 I’m currently learning Bootstrap and Typescript  
+- 🌱 I’m currently learning Flutter
   
 
 - ❓ Ask me about anything related to CSS and styling  
