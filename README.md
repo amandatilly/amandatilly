@@ -8,23 +8,7 @@
 </div>  
   
 
-### <div align="center">I'm Amanda, a creative frontend developer 🎨👩‍💻 & sustainability advocate 🌲  </div>  
-<br/> 
-  
-
-- ✔️ [Debug - Happy Habiting](https://github.com/amandatilly/final-project), the final project of Technigo's 24-week boot camp.  
-  
-
-- 🌱 I’m currently learning Flutter
-  
-
-- ❓ Ask me about anything related to CSS and styling  
-  
-
-- ⚡ Fun fact: My twin and I don’t share the same birthday   
-  
-
-<br/>  
+### <div align="center">I'm Amanda, a creative frontend developer 🎨👩‍💻  </div>  
 
 
 ## My Skill Set  
